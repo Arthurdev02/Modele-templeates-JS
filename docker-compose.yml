@@ -1,4 +1,4 @@
-name: <<PROJECT_NAME>>
+name: intro-js-objet
 
 services:
   # NodeJS
